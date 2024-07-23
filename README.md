@@ -1,4 +1,4 @@
-
+![logo](https://github.com/officialmanasvi/officialmanasvi/blob/main/banner2.jpg)
 <h1 align="center">Hi 👋, I'm MANASVI</h1>
 <h3 align="center">A passionate AI Coder and Data Scientist.</h3>
 
